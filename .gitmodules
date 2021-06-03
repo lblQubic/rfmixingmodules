@@ -1,0 +1,9 @@
+[submodule "upconverter_noamp"]
+	path = upconverter_noamp
+	url = https://gitlab.com/LBL-QubiC/upconverter_noamp.git
+[submodule "upconverter_yesamp"]
+	path = upconverter_yesamp
+	url = https://gitlab.com/LBL-QubiC/upconverter_yesamp.git
+[submodule "downconverter"]
+	path = downconverter
+	url = https://gitlab.com/LBL-QubiC/downconverter.git
