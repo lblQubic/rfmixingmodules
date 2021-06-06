@@ -7,3 +7,6 @@
 [submodule "downconverter"]
 	path = downconverter
 	url = https://gitlab.com/LBL-QubiC/downconverter.git
+[submodule "rfmixing_modules_mech"]
+	path = rfmixing_modules_mech
+	url = git@gitlab.com:LBL-QubiC/rfmixing_modules_mech.git
