@@ -18,3 +18,9 @@ works, and perform publicly and display publicly, and to permit others to do so.
 
 
 ****************************
+
+To clone the project:
+
+`git clone --recursive https://gitlab.com/LBL-QubiC/rfmixingmodules.git`
+
+Please refer to the wiki page for more detail about the project.
